@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>3EFDB9AB510E6BF12CCFD3A49F0339CF536C97BE</string>
+				<key>dateExpires</key>
+				<string>2022/4/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7T3TXDUFQ5.com.ionicframework.newapp155376</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7T3TXDUFQ5</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>newApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>73238807-c189-49eb-86ba-5a8ac28322b8</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.ionicframework.newapp155376</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7T3TXDUFQ5</string>
+				<key>name</key>
+				<string>SHANDONG JINYU TIRE CO.,LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
